@@ -1,7 +1,7 @@
 body{
     background-color: black;
     color: white;
-    background-image: url("../Imagens/fundo.png");
+    background-image: url("../Imagens/fundo.jpg");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -9,9 +9,10 @@ body{
 
 .container{
     text-align: center;
-    padding: 20px;
+    padding: 28px;
     height: 100vh;
     font-size: 20px;
+    margin-bottom: 20px;
 }
 
 .titulo{
